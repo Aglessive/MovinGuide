@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1091651360480-rc16vatk261k8p7vnmtlr5f8ssc3ebms.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1091651360480-rc16vatk261k8p7vnmtlr5f8ssc3ebms</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBfv5ehjabgNLQ_VJC25snf2MimF7oZlKw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1091651360480</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.movinguide</string>
+	<key>PROJECT_ID</key>
+	<string>movinguide-22d96</string>
+	<key>STORAGE_BUCKET</key>
+	<string>movinguide-22d96.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1091651360480:ios:e78b8adbe20bf9f9952285</string>
+</dict>
+</plist>
